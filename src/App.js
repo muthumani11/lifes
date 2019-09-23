@@ -36,7 +36,7 @@ class App extends React.Component {
     console.log("SimpleCounter render call!");
 
     return (
-      <div>  <h1>Set Timer</h1>
+      <div>  <h1>Set Timer  Changes</h1>
         <h2>{this.state.count}</h2></div>
 
     );
